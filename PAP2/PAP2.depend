@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1520775680 source:d:\a file tri\pap1\pap2\fungsi.c
+	"header.h"
+
+1520778097 d:\a file tri\pap1\pap2\header.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<conio.h>
+
+1520778097 source:d:\a file tri\pap1\pap2\main.c
+	"header.h"
+
+1520778118 source:d:\a file tri\pap2\fungsi.c
+	"header.h"
+
+1520778097 d:\a file tri\pap2\header.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<conio.h>
+
+1520778097 source:d:\a file tri\pap2\main.c
+	"header.h"
+
+1520913522 source:f:\alpro\pap2\fungsi.c
+	"header.h"
+
+1520778098 f:\alpro\pap2\header.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<conio.h>
+
+1520778098 source:f:\alpro\pap2\main.c
+	"header.h"
+
